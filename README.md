@@ -13,6 +13,10 @@
   <a href="mailto:your.email@example.com">
     <img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white" alt="Email"/>
   </a>
+  
+  <br>
+  <!-- Profile Views Counter -->
+  <img src="https://komarev.com/ghpvc/?username=theshakhawat&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </div>
 
 ---
@@ -56,17 +60,25 @@ I am a passionate Full Stack Developer with a strong specialization in **Laravel
 
 ---
 
-### 📊 GitHub Activity
+### 📊 GitHub Activity & Metrics
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=theshakhawat&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=theshakhawat&theme=radical&hide_border=true&background=0D1117" width="48%" />
 </div>
 
-<br>
+<div align="center">
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshakhawat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="48%" />
+</div>
+
+---
+
+### 🐍 Contribution Graph Animation
+*A fun visualization of my recent GitHub contributions!*
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theshakhawat&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" width="50%" />
+  <img src="https://raw.githubusercontent.com/theshakhawat/theshakhawat/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
 ---
